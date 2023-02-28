@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Gaming",
+  "description": "A gamin product",
+  "type": "object",
+  "properties": {
+    "id": {
+      "description": "Incremental value",
+      "type": "integer"
+    },
+    "text": {
+      "description": "Name of the game",
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "text"
+  ]
+}

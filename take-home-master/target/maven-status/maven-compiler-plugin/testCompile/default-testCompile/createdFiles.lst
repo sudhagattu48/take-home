@@ -1,0 +1,3 @@
+dataclass\GameInfo.class
+fun\GameTests.class
+utils\JsonSchemaUtils.class
